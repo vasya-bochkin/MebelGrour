@@ -33,7 +33,7 @@ build/Release
 
 # Dependency Directories
 /node_modules
-/packgage-lock.json
+/package-lock.json
 /.pnp
 .pnp/jsonapp/css
 
