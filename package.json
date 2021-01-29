@@ -17,5 +17,7 @@
     "url": "https://github.com/vasya-bochkin/MebelGrour/issues"
   },
   "homepage": "https://github.com/vasya-bochkin/MebelGrour#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
