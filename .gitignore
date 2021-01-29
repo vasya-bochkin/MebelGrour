@@ -32,8 +32,8 @@ build/Release
 /dist
 
 # Dependency Directories
-/node_modulse
-/packgage-lock.json
+/node_modules
+/package-lock.json
 /.pnp
 .pnp/jsonapp/css
 
